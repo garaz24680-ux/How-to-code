@@ -40,7 +40,7 @@ nav ul li a {
 }
 
 #hero {
-    background-image: url('exheroimg.png'); /* Add your image path */
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/3/3d/Code-1076536.jpg); /* Add your image path */
     background-size: cover;
     background-position: center;
     height: 553px;
